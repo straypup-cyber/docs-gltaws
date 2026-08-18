@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r3d55w.saturadar88win.xyz/sitemap.xml
